@@ -34,6 +34,6 @@ The project uses custom assets located in the `assets/images/` and `assets/sound
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Looking to add a button to enter queries manually, in addition to the speech button.
 
-## License
+## Screenshot
 
-[MIT](https://choosealicense.com/licenses/mit/)
+![Project Screenshot](/assets/images/readme.png)
