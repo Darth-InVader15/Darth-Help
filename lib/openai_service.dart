@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:dart_help/secrets.dart'; 
+import 'package:darth_help/secrets.dart';
 //the secrets.dart file wont be uploaded on Github
 //Obtain your own Open AI API key by following the readme 
 import 'package:http/http.dart' as http;

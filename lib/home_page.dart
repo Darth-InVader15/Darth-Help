@@ -134,7 +134,8 @@ class _HomePageState extends State<HomePage> {
                     padding: const EdgeInsets.symmetric(vertical: 10.0),
                     child: Text(
                       generatedContent == null
-                          ? 'Good Morning, what task can I do for you?'
+                          ? 'Welcome Darth Lord!'
+                          'Your Wish is my Command'
                           : generatedContent!,
                       style: TextStyle(
                         fontFamily: 'Cera Pro',

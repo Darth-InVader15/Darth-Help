@@ -15,9 +15,9 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Darth',
       theme: ThemeData.light(useMaterial3: true).copyWith(
-        scaffoldBackgroundColor: Pallete.whiteColor,
+        scaffoldBackgroundColor: Pallete.blackColor,
         appBarTheme: const AppBarTheme(
-          backgroundColor: Pallete.whiteColor,
+          backgroundColor: Pallete.blackColor,
         ),
       ),
       home: const HomePage(),
